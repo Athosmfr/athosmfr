@@ -17,8 +17,8 @@
 <a href=https://www.linkedin.com/in/athosmfr target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
  
-- 🔭 Realizando projetos em Front-end com base em HTML e CSS e um pouco de Java Script
-- 🌱 Atualmente estudando Flexbox e Grid (CSS)
-- 📫 Contate-me no email: athos.mfrodrigues@gmail.com
-- 😄 Pronouns: ele/dele
+- 🔭 Making Front-end projects based on HTML & CSS and a bit of JavaScript
+- 🌱 Currently studying Flexbox & Grid (CSS)
+- 📫 Contact me trough my email: athos.mfrodrigues@gmail.com
+- 😄 Pronouns: He/Him
 
