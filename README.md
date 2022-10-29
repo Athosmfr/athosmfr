@@ -17,8 +17,7 @@
 <a href=https://www.linkedin.com/in/athosmfr target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
  
-- 🔭 Making Front-end projects based on HTML & CSS and a bit of JavaScript
-- 🌱 Currently studying Flexbox & Grid (CSS)
+- 🔭 Making Front-end projects based on HTML & CSS and JavaScript
+- 🌱 Currently studying Java Language and Design Patterns
 - 📫 Contact me trough my email: athos.mfrodrigues@gmail.com
-- 😄 Pronouns: He/Him
 
