@@ -1,23 +1,54 @@
-### Olá, eu sou o Athos Mantovani Feres Rodrigues 
-<div align="center">
-  <a href="https://github.com/Athosmfr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Athosmfr&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athosmfr&layout=compact&langs_count=7&theme=synthwave"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg">
-</div>
-  
-  ##
+<h2 align="center">Hi! I'm Athos Mantovani Feres Rodrigues — Full-Stack Developer & Tech Enthusiast 👨‍💻</h2>
 
-<a href = "mailto:athosmfrodrigues@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href=https://www.linkedin.com/in/athosmfr target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
- 
-- 🔭 Making Front-end projects based on HTML & CSS and JavaScript
-- 🌱 Currently studying Java Language and Design Patterns
-- 📫 Contact me trough my email: athos.mfrodrigues@gmail.com
+---
+
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Athosmfr&theme=dracula" alt="Repos Languages" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Athosmfr&theme=dracula" alt="Profile Details" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github.com/Athosmfr/athosmfr/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Profile" width="100%"/>
+</div>
+
+---
+
+<h3 align="center">🚀 MY TECH STACK</h3>
+<br/>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,spring,java,javascript,typescript,css,html,react,tailwind,nodejs,vue,docker,figma,github,linux,postman,vite,bootstrap,mongodb,postgres" />
+  </a>
+</div>
+
+---
+
+<h3 align="center">📫 CONTACT</h3>
+<br/>
+<div align="center">
+  <a href="mailto:athosmfrodrigues@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/athosmfr" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+---
 
