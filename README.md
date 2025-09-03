@@ -13,9 +13,7 @@
   <i>Here I present my projects, coding experiments, and development practice</i>
 </p>
 
-<p>
-  <img src="https://placehold.co/1000x4/FF6700/FF6700" alt="linha laranja" width="100%" height="10px">
-</p>
+---
 
 <p align="center">
   <a href="https://www.linkedin.com/in/athosmfr/" target="_blank">
@@ -35,9 +33,7 @@
   </a>
 </p>
 
-<p>
-  <img src="https://placehold.co/1000x4/FF6700/FF6700" alt="linha laranja" width="100%" height="10px">
-</p>
+---
 
 ### 🔥 About Me
 
@@ -45,9 +41,7 @@
 - 📙 Currently studying Containerization (Docker), Cloud Architecture, Microservices
 - 🔭 Working on personal projects / portfolio
 
-<p>
-  <img src="https://placehold.co/1000x4/FF6700/FF6700" alt="linha laranja" width="100%" height="10px">
-</p>
+---
 
 ### 🔶 My Tech Stack
 
@@ -55,9 +49,7 @@
   <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athosmfr&layout=compact&hide_border=true&title_color=FF6700&text_color=FF6700&bg_color=0d1117" />
 </p>
 
-<p>
-  <img src="https://placehold.co/1000x4/FF6700/FF6700" alt="linha laranja" width="100%" height="10px">
-</p>
+---
 
 <p align="center">
   <img src="https://placehold.co/200x800/FF6700/FF6700" width="10%" height="100%" style="vertical-align: middle;" />
@@ -65,7 +57,13 @@
   <img src="https://placehold.co/200x800/FF6700/FF6700" width="10%" height="100%" style="vertical-align: middle;" />
 </p>
 
-<!-- <table>
+<!-- 
+
+<p>
+  <img src="https://placehold.co/1000x4/FF6700/FF6700" alt="linha laranja" width="100%" height="10px">
+</p>
+
+<table>
   <tr>
     <td>
       <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
