@@ -60,9 +60,9 @@
 </p>
 
 <p align="center">
-  <img src="https://placehold.co/300x1200/FF6700/FF6700" width="100px" height="100%" style="vertical-align: middle;" />
+  <img src="https://placehold.co/200x800/FF6700/FF6700" width="10%" height="100%" style="vertical-align: middle;" />
   <img src="https://64.media.tumblr.com/a4a72f471d3819344902860ac1d26eed/tumblr_pg0yx7yDkZ1uxrf48o1_640.gif"/>
-  <img src="https://placehold.co/300x1200/FF6700/FF6700" width="100px" height="100%" style="vertical-align: middle;" />
+  <img src="https://placehold.co/200x800/FF6700/FF6700" width="10%" height="100%" style="vertical-align: middle;" />
 </p>
 
 <!-- <table>
