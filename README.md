@@ -1,7 +1,7 @@
 <h2 align="center">Hello, I'm Athos Mantovani Feres Rodrigues </h2>
 
 <p align="center">
-  <i>🔸Software Engineer • Back-end Developer🔸</i>
+  <i>🔸Software Engineer • Java & Spring Boot • React🔸</i>
 </p>
 
 <p align="center">
@@ -9,8 +9,10 @@
 </p>
 
 <p align="center">
-  <i>Junior developer with knowledge in back-end development using Java</i> <br>
-  <i>Here I present my projects, coding experiments, and development practice</i>
+  <i>Back-end focused developer building REST APIs with Java and Spring Boot, with React on the front end. Currently doing a Postgraduate in Engineering with Applied AI and integrating AI features into my projects.
+
+🇪🇺 EU citizen (Portuguese) — authorized to work in the EU, no sponsorship needed · 🌍 Open to remote and relocation</i> <br>
+  
 </p>
 
 ---
@@ -28,7 +30,7 @@
     <img src="https://img.shields.io/badge/-Email-FF6700?style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
   
-  <a href="https://athosmfr.github.io/" target="_blank">
+  <a href="https://athosmfr.com/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-FF6700?style=for-the-badge&logo=Google-Chrome&logoColor=white">
   </a>
 </p>
@@ -45,9 +47,14 @@
 
 ### 🔶 My Tech Stack
 
-<p align="center">
+<!-- <p align="center">
   <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athosmfr&layout=compact&hide_border=true&title_color=FF6700&text_color=FF6700&bg_color=0d1117" />
-</p>
+</p> -->
+🔸 **Back-end:** Java · Spring Boot · Spring Security (JWT) · JPA/Hibernate · REST APIs · OpenAPI </br>
+🔸 **Front-end:** React · TypeScript · JavaScript · Tailwind CSS </br>
+🔸 **Data:** MySQL · PostgreSQL </br>
+🔸 **Tools:** Git · Docker · Linux · AWS · IntelliJ IDEA </br>
+🔸 **Learning now:** Microservices · CI/CD with GitHub Actions · Spring AI · RAG </br>
 
 ---
 
